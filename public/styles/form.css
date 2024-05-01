@@ -1,0 +1,33 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    background-color: #e79be5;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 2rem;
+}
+
+input{
+    outline: none;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 5px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form p{
+    text-align: center;
+}
+
+.parrafoInfo{
+    width: 28rem;
+}
